@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**Moosa-24/Moosa-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, my name is Moosa Akoodie and I am an aspiring software developer.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+• Able to work well under pressure(If I'm good at the skill)
+
+***
+
+Here are some technologies that I've been working with:
+• JavaScript
+• HTML5
+• CSS3
+• Netlify
+• Typescript
+
+*** 
+
+**Key projects** that I've been working, joint into one repo, can be acccessed at this link:
+• https://github.com/Moosa-24/MOOAKO310_fto2401_GroupA_MoosaAkoodie_SDFs 🚀
+
+***
+
+Reach out to me here:
+• https://www.instagram.com/moosa.akoodie/
+• moosaakoodie3@gmail.com
