@@ -15,6 +15,8 @@ Here are some of the technologies I've been working with:
 - ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 - ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+- ![Loom](https://img.shields.io/badge/-Loom-6D6E71?logo=loom&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ## Key Projects
 
