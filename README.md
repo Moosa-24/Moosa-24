@@ -1,6 +1,6 @@
 # Moosa Akoodie - Software Developer
 
-Welcome to my GitHub! I'm Moosa Akoodie, an aspiring software developer passionate about creating innovative solutions and diving into new technologies. This is where I showcase my projects and skills.
+Hi, I'm Moosa Akoodie, an aspiring software developer passionate about creating innovative solutions and diving into new technologies.
 
 ## Skills
 
