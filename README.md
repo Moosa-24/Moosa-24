@@ -18,7 +18,7 @@ Here are some of the technologies I've been working with:
 
 ## Key Projects
 
-I've been involved in several projects, and you can find them all in one repository [here](https://github.com/Moosa-24/MOOAKO310_fto2401_GroupA_MoosaAkoodie_SDFs) 🚀
+[Software Development Fundamentals](https://github.com/Moosa-24/MOOAKO310_fto2401_GroupA_MoosaAkoodie_SDFs) 🚀
 
 ## Reach Out
 
