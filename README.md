@@ -10,11 +10,11 @@ Hi, I'm Moosa Akoodie, an aspiring software developer passionate about creating 
 
 Here are some of the technologies I've been working with:
 
-- JavaScript
-- HTML5
-- CSS3
-- Netlify
-- TypeScript
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+- ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 
 ## Key Projects
 
