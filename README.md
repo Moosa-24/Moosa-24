@@ -21,10 +21,3 @@ Here are some of the technologies I've been working with:
 ## Key Projects
 
 [Software Development Fundamentals](https://github.com/Moosa-24/MOOAKO310_fto2401_GroupA_MoosaAkoodie_SDFs) 🚀
-
-## Reach Out
-
-Feel free to connect with me on:
-
-- Instagram: [moosa.akoodie](https://www.instagram.com/moosa.akoodie/)
-- Email: [moosaakoodie3@gmail.com](mailto:moosaakoodie3@gmail.com)
