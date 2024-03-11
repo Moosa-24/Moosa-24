@@ -1,4 +1,4 @@
-# Moosa Akoodie - Software Developer
+# Moosa Akoodie - CodeSpace Student
 
 Hi, I'm Moosa Akoodie, an aspiring software developer passionate about creating innovative solutions and diving into new technologies.
 
