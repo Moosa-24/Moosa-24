@@ -4,7 +4,14 @@ Hi, I'm Moosa Akoodie, an aspiring software developer passionate about creating 
 
 ## Skills
 
-- Able to work well under pressure
+- Workplace Leadership & Management
+- Group Communication & Teamwork
+- Time Management for Productivity
+- Essential Customer service skills
+- Conflict Resolution & Negotiation
+- Critical & Creative thinking for Problem Solving
+- Stress Management & Emotional Intelligence
+- Essential Career Soft Skills
 
 ## Technologies
 
