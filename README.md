@@ -1,9 +1,8 @@
 # Moosa Akoodie - Software Developer
 
 Hi, I'm Moosa Akoodie, an enthusiastic and detail-oriented Software Developer witha passion for creating innovative, user-centric applications.
-Proficient in modern web development technologies, including HTML5, CSS3, JavaScript, React, and Next.js. I am interested in
-FRONT-END DEVELOPER roles or similar positions. Recently completed a Software Engineering program atCodeSpace Academy with a Merit Honorary Award,
-showcasing dedication and excellence in learning. I am committed to delivering high-quality solutions while staying ahead of industry trends
+Proficient in modern web development technologies, including HTML5, CSS3, JavaScript, React, and Next.js. I am committed to delivering high-quality 
+solutions while staying ahead of industry trends
 
 ## Skills
 
