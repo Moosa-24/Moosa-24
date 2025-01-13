@@ -26,7 +26,3 @@ Here are some of the technologies I've been working with:
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-
-## Key Projects
-
-[Software Development Fundamentals](https://github.com/Moosa-24/MOOAKO310_fto2401_GroupA_MoosaAkoodie_SDFs) 🚀
