@@ -1,6 +1,9 @@
 # Moosa Akoodie - CodeSpace Student
 
-Hi, I'm Moosa Akoodie, an aspiring software developer passionate about creating innovative solutions and diving into new technologies.
+Hi, I'm Moosa Akoodie, an enthusiastic and detail-oriented Junior Software Developer witha passion for creating innovative, user-centric applications.
+Proficient in modern web development technologies, including HTML5, CSS3, JavaScript, React, and Next.js. I am interested in
+FRONT-END DEVELOPER roles or similar positions. Recently completed a Software Engineering program atCodeSpace Academy with a Merit Honorary Award,
+showcasing dedication and excellence in learning. I am committed to delivering high-quality solutions while staying ahead of industry trends
 
 ## Skills
 
